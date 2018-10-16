@@ -17,5 +17,5 @@ Zwróć uwagę na format ceny.
 
 ### Przydatne linki
 
-https://api.jquery.com/jquery.post/
-https://api.jquery.com/category/events/
+* https://api.jquery.com/jquery.post/
+* https://api.jquery.com/category/events/

@@ -13,9 +13,11 @@ wewnątrz ścieżki app/config.php.
 API zostało przygotowane tak, że zwraca zawsze 4 losowe,
 wcześniej przygotowane modele samochodów.
 
-Zwróć uwagę na format ceny.
+Zwróć uwagę na formatowanie ceny.
 
 ### Przydatne linki
 
 * https://api.jquery.com/jquery.post/
 * https://api.jquery.com/category/events/
+* https://git-scm.com/
+* https://www.apachefriends.org/pl/index.html
